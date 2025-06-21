@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "a-medium-shot-of-rexcheryll-standing-in-_9Ts3cP5BTiufu0BYdiSNkg_L1PWxf6GTWWB3c6iesq5Nw.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
